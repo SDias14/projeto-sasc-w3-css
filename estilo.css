@@ -1,0 +1,55 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+    grid-gap: 0px;
+    background-color: #f0f5f8;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .grid-container > form {
+    background-color: #f0f5f8;
+    text-align: center;
+    padding: 10px;
+    font-size: 10px;
+  }
+
+  .grid-container > div {
+    background-color: #f0f5f8;
+    text-align: right;
+    padding: 10px;
+    font-size: 15px;
+  }
+
+.w3-row-padding img{
+    margin-bottom: 12px;
+}
+
+
+#container-a{
+
+    display: inline-block;
+
+}
+
+#container-b{
+
+    display: inline-block;
+
+}
+
+#margem{
+
+    display: inline-block;
+    margin: 0em;
+
+}
+
+
+
+
+
+
+ 
+ 
+ 
